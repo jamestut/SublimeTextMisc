@@ -1,0 +1,7 @@
+[
+	{
+		"caption": "New File Here",
+		"command": "sidebar_cmd_new_file",
+		"args": { "paths": [] }
+	}
+]
